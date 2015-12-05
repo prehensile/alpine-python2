@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:latest
+FROM janeczku/alpine-kubernetes:3.2
 
 MAINTAINER Henry Cooke <me@prehensile.co.uk>
 
